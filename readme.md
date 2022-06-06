@@ -20,3 +20,19 @@ From the output, you will see the following responses:
 bucket = "s3://threepoints-bucket"
 website_url = "threepoints-bucket.s3-website-us-east-1.amazonaws.com"
 ```
+
+#### 📚 Documentation
+
+After the project is built, you can see the response from console aws.
+
+<div style="text-align:center">
+    <img src="./project/assets/bucket.png" alt="Bucket" />
+    <img src="./project/assets/application.png" alt="Application" />
+</div>
+
+
+Alse, you can see the aplication in the browser.
+
+<div style="text-align:center">
+    <img src="./project/assets/home.png" alt="Home" />
+</div>
